@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Mobile-Friendly Website</title>
+    <style>
+        /* CSS styles can be added here */
+        /* Make sure to use responsive design */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Mobile Website</h1>
+        <!-- Add your navigation here -->
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>This is where you can introduce your company or organization.</p>
+        </section>
+
+        <section>
+            <h2>Services</h2>
+            <ul>
+                <li>Service 1</li>
+                <li>Service 2</li>
+                <li>Service 3</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact Us</h2>
+            <!-- Add your contact form or contact information here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
